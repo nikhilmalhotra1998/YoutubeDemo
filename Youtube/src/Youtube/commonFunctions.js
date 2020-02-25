@@ -13,7 +13,7 @@ render(){
     return(
         
         <Link to={`/play/${this.props.activeId}`}>
-            {this.props.name==="play"?console.log(this.props.title):"12121212121212121"}
+          
             
         <div className={this.props.name==="main"?"mainGrid":"videoDetails"} >
                 
