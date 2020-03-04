@@ -4,8 +4,8 @@ import {
     Link
   } from "react-router-dom";
 
-
-  const key='AIzaSyAREgfhEJ4ULaI8AYIEyZhPWrNMbaAl_GU';
+// enter key here
+  const key='Your key here';
 
 
 class ListingPageItems extends React.Component{
